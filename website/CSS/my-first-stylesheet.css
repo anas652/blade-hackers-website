@@ -1,5 +1,5 @@
 body{
-background-color: #9e7bb5;
+background-color:   lightskyblue;
 font-family: monospace;
 margin-left: auto;
 margin-right: auto;
@@ -9,4 +9,8 @@ padding-top: 8px;
 padding-bottom: 24px;
 padding-left: 24px;
 padding-right: 24px;
+}
+html {
+background: radial-gradient(circle, SkyBlue, SkyBlue 50%, LightCyan 50%, SkyBlue);
+background-size: 8px 8px;
 }
